@@ -1,0 +1,6 @@
+{
+  "name": "GorBanjara - बंजारा समाज महामंच",
+  "description": "बंजारा (गौरमाटी) समाज की संस्कृति, इतिहास, संत सेवालाल महाराज के उपदेश, तांडा चौपाल, रील्स और भजनों का डिजिटल संगम।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Banjara App - बंजारा समाज महामंच",
+  "short_name": "Banjara App",
+  "description": "बंजारा (गौरमाटी) समाज की संस्कृति, इतिहास, संत सेवालाल महाराज के उपदेश, तांडा चौपाल, रील्स और भजनों का डिजिटल संगम।",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffdf9",
+  "theme_color": "#d97706",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "/banjara-app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/banjara-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "lifestyle", "culture"],
+  "shortcuts": [
+    {
+      "name": "तांडा चौपाल (Connect)",
+      "url": "/?tab=connect",
+      "description": "समाज बंधुओं से जुड़ें"
+    },
+    {
+      "name": "गौर भजन (Bhajan)",
+      "url": "/?tab=bhajan",
+      "description": "भक्ति भजन व संगीत"
+    },
+    {
+      "name": "गौर रील्स (Reels)",
+      "url": "/?tab=reels",
+      "description": "पारंपरिक संस्कृति वीडियो"
+    }
+  ]
+}

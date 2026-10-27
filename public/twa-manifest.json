@@ -1,0 +1,34 @@
+{
+  "packageId": "org.banjara.app",
+  "host": "ais-pre-kvgng7w42wkrvuwdwod33x-454190299902.asia-northeast1.run.app",
+  "name": "Banjara App",
+  "launcherName": "Banjara App",
+  "themeColor": "#d97706",
+  "navigationColor": "#000000",
+  "backgroundColor": "#fffdf9",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/banjara-app-icon.png",
+  "maskableIconUrl": "/banjara-app-icon.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ais-pre-kvgng7w42wkrvuwdwod33x-454190299902.asia-northeast1.run.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://ais-pre-kvgng7w42wkrvuwdwod33x-454190299902.asia-northeast1.run.app/"
+}
